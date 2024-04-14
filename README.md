@@ -7,7 +7,7 @@ The objective of this little project is to make a toogle dark mode who match wit
 
 AND
 
-Don't have a white or dark flicket or FOUC. 
+Don't have a white or dark flicker or a FOUC. 
 
 # Run the project
 1/ cd DarkModeApp
