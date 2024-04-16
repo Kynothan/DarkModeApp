@@ -7,6 +7,10 @@ import svgr from 'vite-plugin-svgr'
 export default defineConfig({
   plugins: [
     svgr()
+    // svgr({
+    //   svgrOptions: { exportType: 'named', ref: true, svgo: false, titleProp: true },
+    //   include: '**/*.svg',
+    // }),
   ],
   css: {
     postcss: {

@@ -1,5 +1,5 @@
 # Description
-This projet is an example of an implementation of a darkmode toggle.
+This projet is an example of an implementation of a dark mode toggle.
 
 This projet is build in react typescript + vite and use the css library TailwindCSS.
 
@@ -7,7 +7,7 @@ The objective of this little project is to make a toogle dark mode who match wit
 
 AND
 
-Don't have a white or dark flicker or a FOUC. 
+Don't have a white or black flicker or a FOUC. 
 
 # Run the project
 1/ cd DarkModeApp
